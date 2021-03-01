@@ -1,0 +1,6 @@
+number <- 5
+if(number > 0){
+  print(paste(number, "is a positive number"))
+}
+print("Other numbers...")
+##In the example, we assign the value 5 to the number variable. If the number value is greater than 0 in the if content, we add the is a positive number expression with the field assigned as the value to the screen, and since the process continues, other numbers ... are displayed on the screen.
